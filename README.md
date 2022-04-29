@@ -1,14 +1,23 @@
 # Spark
 
 ### Mục lục
-[1. Cài đặt và bắt đầu với PySpark](#install_pyspark)
-
+[1. Cài đặt và bắt đầu với Spark](#install_pyspark)
+  
+  * [1.1 Tổng quan về Spark](#overview)
+  * [1.2 Thực hành cài đặt PySpark](#practice_installation)
+  
 [2. Làm việc với Spark RDDs (Resilient Distributed Datasets)](#RDDs)
 
 [Tài liệu tham khảo](#references)
 
 <a name="install_pyspark"></a>
 ## 1. Cài đặt và bắt đầu với PySpark
+
+<a name="overview"></a>
+### 1.1 Tổng quan về Spark 
+
+<a name="practice_installation"></a>
+### 1.2 Thực hành cài đặt PySpark
 * **Create conda environment**
 ```
 conda create -n spark_env python=3.9 -y
