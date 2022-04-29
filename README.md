@@ -16,6 +16,12 @@
 <a name="overview"></a>
 ### 1.1 Tổng quan về Spark 
 
+#### 1.1.1 Giới thiệu Spark 
+
+#### 1.1.2 Tính năng của Spark 
+
+#### 1.1.3 Các thành phần của Spark 
+
 <a name="practice_installation"></a>
 ### 1.2 Thực hành cài đặt PySpark
 * **Create conda environment**
@@ -32,3 +38,4 @@ conda activate spark_env
 <a name="references"></a>
 ## Tài liệu tham khảo:
 * Youtube: https://www.youtube.com/watch?v=zViegH2vnuk&list=PLQ5j-FTc2VhCi9jCNgAmHyDx3lQsJWYLT
+* Page: https://laptrinh.vn/books/apache-spark
