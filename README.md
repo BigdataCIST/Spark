@@ -50,5 +50,6 @@ pip install pyspark
 
 <a name="references"></a>
 ## Tài liệu tham khảo:
+* Tutorial: https://spark.apache.org/docs/latest/api/python/index.html
 * Youtube: https://www.youtube.com/watch?v=zViegH2vnuk&list=PLQ5j-FTc2VhCi9jCNgAmHyDx3lQsJWYLT
 * Page: https://laptrinh.vn/books/apache-spark
