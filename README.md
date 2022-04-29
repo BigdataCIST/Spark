@@ -2,7 +2,10 @@
 
 ### Mục lục
 [1. Cài đặt và bắt đầu với PySpark](#install_pyspark)
-[2. Làm việc với Spark RDDs (Resilient Distributed Datasets - Dữ liệu phân tán có thể khôi phục)](#RDDs)
+
+[2. Làm việc với Spark RDDs (Resilient Distributed Datasets)](#RDDs)
+
+[Tài liệu tham khảo](#references)
 
 <a name="install_pyspark"></a>
 ## 1. Cài đặt và bắt đầu với PySpark
@@ -14,5 +17,9 @@ conda create -n spark_env python=3.9 -y
 ```
 conda activate spark_env
 ```
-<a name="<RDDs>"></a>
+<a name="RDDs"></a>
 ## 2. Làm việc với Spark RDDs (Resilient Distributed Datasets - Dữ liệu phân tán có thể khôi phục)
+
+<a name="references"></a>
+## Tài liệu tham khảo:
+* Youtube: https://www.youtube.com/watch?v=zViegH2vnuk&list=PLQ5j-FTc2VhCi9jCNgAmHyDx3lQsJWYLT
