@@ -29,6 +29,7 @@
 
 <a name="component"></a>
 #### 1.1.3 Các thành phần của Spark 
+![spark_component](https://user-images.githubusercontent.com/103992475/165901515-db2978f4-bb89-4c23-86f1-deb733408f8e.png)
 
 <a name="practice_installation"></a>
 ### 1.2 Thực hành cài đặt PySpark
