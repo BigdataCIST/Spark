@@ -9,3 +9,7 @@
 ```
 conda create -n spark_env python=3.9 -y
 ```
+* **Activate spark_env environment**
+```
+conda activate spark_env
+```
