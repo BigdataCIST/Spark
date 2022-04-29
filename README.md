@@ -41,6 +41,10 @@ conda create -n spark_env python=3.9 -y
 ```
 conda activate spark_env
 ```
+* **Cài đặt spark**
+```
+pip install spark
+```
 <a name="RDDs"></a>
 ## 2. Làm việc với Spark RDDs (Resilient Distributed Datasets - Dữ liệu phân tán có thể khôi phục)
 
